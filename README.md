@@ -1,4 +1,4 @@
-# 🔐 lgpd-data-mapper
+# 🔐 Mapeador de Dados LGPD
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
@@ -41,18 +41,18 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 
 ## 📁 Estrutura do projeto
 
-```
+
 lgpd-data-mapper/
 │
 ├── main.py
 ├── mapper.py
 ├── data/
-│   └── input.txt
+│ └── input.txt
 ├── reports/
-│   └── resultado.json
+│ └── resultado.json
 ├── EVIDENCIAS.md
 └── README.md
-```
+
 
 ---
 
@@ -60,21 +60,21 @@ lgpd-data-mapper/
 
 1. Clone o repositório:
 
-```
+
 git clone https://github.com/seu-usuario/lgpd-data-mapper.git
-```
+
 
 2. Acesse a pasta:
 
-```
+
 cd lgpd-data-mapper
-```
+
 
 3. Execute o script:
 
-```
+
 python3 main.py
-```
+
 
 ---
 
@@ -82,7 +82,7 @@ python3 main.py
 
 O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do processo de execução, incluindo:
 
-- Environment Setup  
+- Configuração do ambiente  
 - Desenvolvimento do código  
 - Execução do script  
 - Resultado gerado  
