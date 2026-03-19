@@ -29,7 +29,7 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 - Expressões Regulares (Regex)  
 - Ambiente de testes: Kali Linux
 
-## 📁 Estrutura do projeto (vertical)
+## 📁 Estrutura do projeto 
 
 lgpd-data-mapper  
 │  
