@@ -35,18 +35,17 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 
 ## 📁 Estrutura do projeto
 
-
+```
 lgpd-data-mapper/
 │
 ├── main.py
 ├── mapper.py
 ├── data/
-│ └── input.txt
+│   └── input.txt
 ├── reports/
-│ └── resultado.json
+│   └── resultado.json
 ├── EVIDENCIAS.md
 └── README.md
-
 
 ---
 
