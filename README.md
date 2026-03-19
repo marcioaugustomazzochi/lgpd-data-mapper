@@ -99,7 +99,7 @@ Este projeto tem fins educacionais e não substitui auditorias oficiais de confo
 
 **Márcio Augusto Mazzochi**  
 📍 Agudos - SP  
-🎓 Segurança da Informação | Cibersegurança | Phyton | GRC | LGPD | Privacidade e Proteção de Dados | Educação Profissional e Tecnologica
+🎓 Segurança da Informação | Cibersegurança | Python | GRC | LGPD | Privacidade e Proteção de Dados | Educação Profissional e Tecnologica
 
 ---
 
