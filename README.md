@@ -67,6 +67,8 @@ Este projeto tem fins educacionais e não substitui auditorias oficiais de confo
 📍 Agudos - SP  
 🎓 Segurança da Informação | Cibersegurança | GRC | LGPD | Privacidade e Proteção de Dados | Educação Profissional e Tecnológica
 
+---
+
 ## 💡 Considerações finais
 
 Este projeto demonstra a aplicação prática de conceitos de cibersegurança e proteção de dados.
