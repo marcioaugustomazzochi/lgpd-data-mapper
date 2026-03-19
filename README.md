@@ -33,9 +33,9 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 
 ## 🧪 Tecnologias utilizadas
 
-- Python 3
-- Expressões Regulares (Regex)
-- Ambiente de testes: Kali Linux
+- Python 3  
+- Expressões Regulares (Regex)  
+- Ambiente de testes: Kali Linux  
 
 ---
 
