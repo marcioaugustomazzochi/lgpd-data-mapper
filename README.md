@@ -82,7 +82,7 @@ python3 main.py
 
 O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do processo de execução, incluindo:
 
-- Project Environment Setup
+- Environment Setup  
 - Desenvolvimento do código  
 - Execução do script  
 - Resultado gerado  
@@ -97,7 +97,7 @@ Este projeto tem fins educacionais e não substitui auditorias oficiais de confo
 
 ## 🚀 Autor
 
-**Marcio Augusto Mazzochi**  
+**Márcio Augusto Mazzochi**  
 📍 Agudos - SP  
 🎓 Segurança da Informação | Cibersegurança | LGPD  
 
