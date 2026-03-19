@@ -91,7 +91,7 @@ Este projeto tem fins educacionais e não substitui auditorias oficiais de confo
 
 ## 🚀 Autor
 
-**Márcio Augusto Mazzochi**  
+**Marcio Augusto Mazzochi**  
 📍 Agudos - SP  
 🎓 Segurança da Informação | Cibersegurança | LGPD  
 
