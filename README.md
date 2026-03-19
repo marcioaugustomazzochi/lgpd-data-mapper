@@ -76,7 +76,7 @@ python3 main.py
 
 O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do processo de execução, incluindo:
 
-- Environment Setup
+- Project Environment Setup
 - Desenvolvimento do código  
 - Execução do script  
 - Resultado gerado  
