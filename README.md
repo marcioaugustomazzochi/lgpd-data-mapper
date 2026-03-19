@@ -19,6 +19,8 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
   - Religião  
 - 📊 Geração de relatório estruturado em JSON
 
+---
+
 ## 🧪 Tecnologias utilizadas
 
 - Python 3  
@@ -49,17 +51,23 @@ cd lgpd-data-mapper
 3. Execute o script:  
 python3 main.py
 
+---
+
 ## 📸 Evidências
 
 O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do processo de execução, incluindo:  
 - Configuração do ambiente  
 - Desenvolvimento do código  
 - Execução do script  
-- Resultado gerado  
+- Resultado gerado
+
+---
 
 ## ⚠️ Aviso
 
 Este projeto tem fins educacionais e não substitui auditorias oficiais de conformidade com a LGPD.
+
+---
 
 ## 🚀 Autor
 
