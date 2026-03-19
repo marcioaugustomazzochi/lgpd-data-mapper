@@ -39,19 +39,16 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 
 ---
 
-## 📁 Estrutura do projeto
-
-## 📁 Estrutura do projeto (vertical)
-
 lgpd-data-mapper
-  main.py
-  mapper.py
-  data
-    input.txt
-  reports
-    resultado.json
-  EVIDENCIAS.md
-  README.md
+│
+├─ main.py
+├─ mapper.py
+├─ data
+│   └─ input.txt
+├─ reports
+│   └─ resultado.json
+├─ EVIDENCIAS.md
+└─ README.md
 
 ---
 
