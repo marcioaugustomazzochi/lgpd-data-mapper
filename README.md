@@ -1,10 +1,6 @@
 # 🔐 Mapeador de Dados LGPD
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black?logo=linux)  
-![License](https://img.shields.io/badge/License-Educational-lightgrey)  
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black?logo=linux) ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 Ferramenta desenvolvida em Python para identificação, mapeamento e classificação de dados pessoais e sensíveis, com base na Lei Geral de Proteção de Dados (LGPD).
 
