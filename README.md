@@ -39,16 +39,7 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 
 ---
 
-lgpd-data-mapper
-│
-├─ main.py
-├─ mapper.py
-├─ data
-│   └─ input.txt
-├─ reports
-│   └─ resultado.json
-├─ EVIDENCIAS.md
-└─ README.md
+
 
 ---
 
