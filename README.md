@@ -67,7 +67,7 @@ O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do proc
 
 ## ⚠️ Aviso
 
-Este projeto tem fins educacionais e não substitui auditorias oficiais de conformidade com a LGPD.
+Este projeto tem fins educacionais e não substitui audits oficiais de conformidade com a LGPD.
 
 ---
 
