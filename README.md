@@ -46,24 +46,29 @@ lgpd-data-mapper/
 │   └── resultado.json
 ├── EVIDENCIAS.md
 └── README.md
+```
 
+---
 
 ## ▶️ Como executar
 
 1. Clone o repositório:
 
+```
 git clone https://github.com/seu-usuario/lgpd-data-mapper.git
-
+```
 
 2. Acesse a pasta:
 
+```
 cd lgpd-data-mapper
-
+```
 
 3. Execute o script:
 
+```
 python3 main.py
-
+```
 
 ---
 
@@ -71,10 +76,10 @@ python3 main.py
 
 O projeto conta com um arquivo `EVIDENCIAS.md` contendo capturas de tela do processo de execução, incluindo:
 
-- Criação do ambiente
-- Desenvolvimento do código
-- Execução do script
-- Resultado gerado
+- Criação do ambiente  
+- Desenvolvimento do código  
+- Execução do script  
+- Resultado gerado  
 
 ---
 
@@ -88,10 +93,10 @@ Este projeto tem fins educacionais e não substitui auditorias oficiais de confo
 
 **Márcio Augusto Mazzochi**  
 📍 Agudos - SP  
-🎓 Segurança da Informação | Cibersegurança | LGPD
+🎓 Segurança da Informação | Cibersegurança | LGPD  
 
 ---
 
 ## 💡 Considerações finais
 
-Este projeto demonstra a aplicação prática de conceitos de cibersegurança e proteção de dados,
+Este projeto demonstra a aplicação prática de conceitos de cibersegurança e proteção de dados.
