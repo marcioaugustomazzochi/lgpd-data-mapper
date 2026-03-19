@@ -51,6 +51,7 @@ lgpd-data-mapper/
 ├── EVIDENCIAS.md
 └── README.md
 
+---
 
 ## ▶️ Como executar
 
