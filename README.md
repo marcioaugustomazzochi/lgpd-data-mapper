@@ -8,6 +8,8 @@ Ferramenta desenvolvida em Python para identificação, mapeamento e classifica�
 
 Este projeto tem como objetivo demonstrar, de forma prática, a identificação de dados pessoais e sensíveis em arquivos de texto, contribuindo para processos de adequação à LGPD.
 
+----
+
 ## ⚙️ Funcionalidades
 
 - 🔍 Identificação de dados pessoais:  
