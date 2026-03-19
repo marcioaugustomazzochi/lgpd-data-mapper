@@ -42,7 +42,6 @@ Este projeto tem como objetivo demonstrar, de forma prática, a identificação 
 ## 📁 Estrutura do projeto
 
 lgpd-data-mapper/
-│
 ├── main.py
 ├── mapper.py
 ├── data/
@@ -51,6 +50,7 @@ lgpd-data-mapper/
 │   └── resultado.json
 ├── EVIDENCIAS.md
 └── README.md
+
 ---
 
 ## ▶️ Como executar
